@@ -26,7 +26,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://supplysystemapi.spqa.info/api/v1/DeviceLogin/OrganizationLogin",
+					"raw": "https://supplysystemapi.supplypro.com/api/v1/DeviceLogin/OrganizationLogin",
 					"protocol": "https",
 					"host": [
 						"supplysystemapi",
