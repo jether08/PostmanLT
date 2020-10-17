@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout
       - newman/newman-run:
-          collection: ./ESL API.postman_collection.json
+          collection: ./ESL.postman_collection.json
 
 workflows:
   version: 2
